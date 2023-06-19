@@ -6,6 +6,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 30px;
     .buttons{
         display: flex;
         align-items: center;
@@ -42,7 +43,7 @@
               height: 100%;
             }
             &:hover{
-                color: #green;
+                color: #fff;
             }
           }
      }
